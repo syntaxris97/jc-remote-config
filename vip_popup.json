@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "showDismiss": true,
+  "showDismiss": false,
   "dismiss": "Not now",
   "title": "VIP Key",
-  "message": "Tired of ads? Get VIP now!",
+  "message": "Tired of ads?, Get VIP now!",
   "button": "Buy VIP Key",
   "buyUrl": "https://your-site.com/vip"
 }
