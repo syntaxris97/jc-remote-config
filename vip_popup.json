@@ -3,6 +3,6 @@
   "title": "VIP Key",
   "message": "Tired of getting key with ads? Get VIP now!",
   "button": "Buy VIP Key",
-  "dismiss": "Not now",
+  "dismiss": "",
   "buyUrl": "https://your-site.com/vip"
 }
